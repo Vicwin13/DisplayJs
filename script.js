@@ -4,4 +4,6 @@ let height = 170;
 let country = "Nigeria";
 
 
-fullname.innerHTML = `My name is ${myName} and I'm ${height}cm tall and I come from ${country}`;
+fullname.innerHTML = `My name is ${myName}, I'm ${height}cm tall and I come from ${country}`;
+
+document.write(`Github link:  https://github.com/Vicwin13/DisplayJs`)
